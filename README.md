@@ -1,7 +1,7 @@
  
 ## 💻 Sobre
 
-O projeto é um login responsivo com algumas leves animações
+O projeto consiste em um login responsivo
 <br>
 <h3 align="left"><a href="https://login-responsivo-carlosfallac.vercel.app/" target="_blank" rel="noopener noreferrer">Clique aqui para ver o projeto!</a><h3>
 <br>
